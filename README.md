@@ -1,6 +1,6 @@
-## Hi there I'm [Menna Ebied]!👋
+## Hi there I'm Menna Ebied👋
 
-- 💻 I’m Self-taught Frontend Developer  
-- 🌱  Passionate about building intuitive UIs with **React, TypeScript, and Tailwind CSS**  
+- 💻  Self-taught Frontend Developer  
+- 🌱  Passionate about building intuitive UIs with **React, TypeScript, React Native and Tailwind CSS**  
 - 🔭  Currently learning **Next.js and backend integration**  
 
