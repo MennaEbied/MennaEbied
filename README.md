@@ -77,14 +77,6 @@ I care about writing clean, maintainable code and shipping systems that are both
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MennaEbied&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 
